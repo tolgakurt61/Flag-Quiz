@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="60a8cdd1ad9b8d22a5d44bc8e479257ced2bf075">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-10.2.6_82dc6e9b1fef16cffa080cec7ee3816e57fd6571.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d79c575e1d97b0298746a4c032a0c1dc201c2f82">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-10.2.6_f6511e012434057333d9ead11ee475bb0bb9c03b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="81978250f6de6ffdf2ea4632e7955613103e984c">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-10.2.6_14909845f6f7e16798d49e695e10f0cd31e3f927.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d54a722583c1b99735f62d395806fa38bf5669ae">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-10.2.6_0e6cf2bead948d0104b5861c7ba73b2f3b5c2506.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a43729dd397e849f2a8bdc5d57a2f3170efb3ed">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-10.2.6_90f28014aa1b672cc2a2b700dd7d58bbf0d0a12f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec94bba6a9bbd3461d90830e0a0752a6487f5484">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-10.2.6_4a301b0135dee02daf879bf624b4e827a61b66f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cf5f630e354827a90ffe90ce2a330495108f0595">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-places-10.2.6_f761dd07ac4bebec0145766db6cb7d5f71e8e8f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.2.0_34ab3d0a034311c9d54691e2b7b3e723344d49ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f1968b9614bc6851e99db64e356cf60063503e5d">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-10.2.6_f2f9f60317c684fade5c3d6787e75ba4c5ba5565.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f2f16fde0c662116f735951b4e830afba373cc6">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-10.2.6_83cb359acd7acb0870afb4773950aa801f691eb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/libs/adcolony.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae3ae1d12ad3f01418113f63426d83f12f159433">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/adcolony_1108953d47ada47a88e97e6261c57ba5ce1814c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.2.0_009a8ead33044db7aab0ca1e1520e0ba3aa68234.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.2.6_91c22e9d4a21dfa38ad660b2d5d34ed79876b664.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a00607e7cf55392edd324bc8fa3827ded7e9859b">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-instantapps-10.2.6_e85efc70c1fe859ce99ee8e06f8c457b4a487d04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aec5337725e7a3171f7f40a50d9837745693d429">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-10.2.6_19d180adc9af853621e0ad4911e9bdc8515754c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.android.support/palette-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-25.2.0_ce91436054ef4d0304081fe64209105d9301c6bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="215363c803a119c16058c8bc0ccd0a4ee62e7157">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-10.2.6_afb2f160d40748ce4f55d3e5dcf017daeff482e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="79100391e3b32d7323a04b7b8a9c8ad0adbae583">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-10.2.6_871e3060d67231b6fda1c0fb0ff02e72de31a439.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4d7184a651c5975b49928ce7c76175d491ee7a5e">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-10.2.6_46f4c2f868ee6b82817b354d6bc5cb939a8d9ba3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a534044236cf81b002604643d23e7ca56bd1ee0">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-10.2.6_64c820b7a0ddcfaff7df8be0cd93ee9280251f34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_05598382919c81181e299344379f57cff1226c11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_a09a2f6ef1165c3012214e972462eb93fe3b5a37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b34276d1fea450411cedd49d3146b04838f9dd6e">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-appindexing-10.2.6_1db10b29de9f838d8aab2353f9e7d12680f018ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_61b851757d2e59665ad804484364766ef5e13170.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c7e0d83e333a25f969bce43db78150c63e7aa0c">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-10.2.6_f3332ffe37f9c382eb5135dc08e02661eff466ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba4defc8cb4ed5b90b8ef71602722cdeebe507cd">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-10.2.6_04de664045730c09227dca94861e391d1829a84c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_c49605c8b2368fd667b6372d68a0091bcdac24f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9b775d7b643397da3ab57e62ae8abb74a9cc9a83">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-10.2.6_6aec3122f7f2c7c0f0ecfe79371ac0d4be78b5b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ff5114aff3bfb387577ba92a11408dcf0441c24">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-10.2.6_efc3d5f10ed21887aedb966d7a7697bfcbd9eeb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4e5223997fa6032b326167ee4586ae0b3498647">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-v4-impl-10.2.6_ad001b681a6754c7db18c441482b4203f7e4b26f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7979972576b6dbb1688052e42e5199abb54f81ba">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-10.2.6_bc918c120385ea9d855638b6838babbad90392cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.6_74db145278155c298f0cd52707e287bfbe7ba523.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="577aa74e06e6b4b407ff23ac75043685ae26dcbb">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-10.2.6_36bc664b054f2e45bae61a80c010349384c40992.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b41f7538ea1af0aad76cb3253b87b13744788c2">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-10.2.6_fe5ba5f26babcf293fd0be77f787a96523d00ab6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9024225796c3f11342ef6a4a99439f2f988bafb0">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-10.2.6_f42412c9f0c72812e9889358e1d3b51531780ec7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c6924cbba8248329a8c58ead6a380efe7eee76e">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-10.2.6_24c797c87208829466ffff5bb0eb427a77c3d4ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="079c035b2a1820bf455e0ae7fd484dec575e2182">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-awareness-10.2.6_17ebb5a5ce89d584c0dea2fa2e5208e0fa8e3342.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_f72470d28328d64b6b1f33d37533db8605cb3c6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="740c4226d6bec1adaaf5fee4b9178674b695f75a">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-10.2.6_b1057ab692ed5a4d6490ec89861e50ced99ecdb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f83a631abfdb790591a720e0cfb5f41329831c3">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-10.2.6_999df350a52cc3370235a51e40427ac831e041c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d068a922134f5f9b9f98bfc609145e09af03c2a4">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-10.2.6_5517d42c2306154907f53ee2c977f734a98ee321.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="29bd9a40adebb952fbe97515aac9db5dfbd90d93">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-crash-10.2.6_7df92befd573759cb74d9c8382fb481523803c09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cad5ae5774f39b7017a3ae3d103e7b78506397b0">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-impl-10.2.6_a3f18367b80c0441cc8af819d066a0353992af5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="84a9797d6c3dd732d00f0433edc17778573cea17">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-api-10.2.6_d612f5bd0d4caf3678cb6542c9c2e30512bb0894.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-25.2.0_ac1c8bab1bb606d1f99258f26f1d0ce81ab84270.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba6d53176502b2672a5d7d25a0000d1a6e701c">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-10.2.6_f92cdcb7d17fa2a906c6fb076c561407e34ad5a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7b3eaf755284fb08a6d616a55fbb07dc3917d5e7">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-10.2.6_23a45325bde0c9b3e0b0ed29cebd9b6049548708.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.6_9fca1171b8ebf63345b2a44d5e82cf0f195b4b8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1172091167cff5873cbcccad4c0e08ec9e3240de">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-10.2.6_cd187057d47a6da120557f49076d35aa0e8be757.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.2.0_3017321a0496b3d52f12ff6335ff50925d350c55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_08a4d03f51e0225351afcc563e7a6968a9430fe1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5c1f80f62ccad560edcd6609fc75f385cf7cb45a">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-10.2.6_81c9238995eff985a28d3fe13bc5b1b7d871390f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd057bc43f1c1e2f13566f5fe800d077b08b61b9">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-10.2.6_9d438e14e783152ee07254e7d592f1f501d55af5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab2c6111c9e733c965725976ca2a2e57670000f9">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-10.2.6_3a55a61858422a44e70bd56c23be720ae25aebc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3dbaff65d26258306561d545f88d6712ac41dd46">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-10.2.6_6bacf330c05d5ccdafd013b513b2461bf5bfad6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f9aa417cd6d4373c413f6e60865133bcfdb7096b">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-framework-10.2.6_42a2fe3b9a3bf79e5421402ae3dc1bf6bbd57f12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cea6fccbfe2b9ca7701a8766710179cd41ae1974">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-10.2.6_0035451702bea27e8233e61058d58cae86e5c17c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="553e58050e91d4295a2f1d1f80ea63b41ee5bc4b">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-10.2.6_7f6b6c13bd730d5b5f8afabd0db74540b37255c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_67415065f7932fb9345ab2df6f76d56c10c40516.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da832806828ba407284c0c4b1d87b8f9ed9f2520">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-10.2.6_db47d48bb682b43f26c5e78cffc4b91a24a11c7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Desktop/4resim2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de24d8023e8da79f30bee46b298f606e5e758432">
+        <dex dex="/Users/macbook/Desktop/4resim2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-10.2.6_831e3e79cbe7a5af0746f11cdc4e6abc34d10bea.jar" />
+    </item>
+
+</items>
